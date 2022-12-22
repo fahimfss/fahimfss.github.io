@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-09-01 10:01:00-0000
 inline: true
 ---
 
-A simple inline announcement.
+Started my M.Sc at the University of Alberta

@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - fahimfss
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - rlai-lab/relod/tree/franka
+  - fahimfss/TGR
+  - fahimfss/Hybrid_Local_Planner
+  - fahimfss/ProjectTennis 
+  - fahimfss/RL/tree/master/DQN
